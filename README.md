@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hski
 Hukmajsta
 =======
@@ -10,3 +11,7 @@ Hukmajsta
 # Hski
 Hukmajsta
 >>>>>>> parent of 5ea7963... Revert "Create README.md"
+=======
+# Hski
+Hukmajsta
+>>>>>>> parent of 4dad65c... Added files via upload
